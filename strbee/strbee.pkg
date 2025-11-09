@@ -1,0 +1,4 @@
+D 'strbee': Estimate a treatment effect adjusting for treatment switches Use strbee With STATA 19
+D
+F strbee.ado
+F strbee.sthlp
